@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-autocomplete/static/css/main.b93a306b.css",
+    "main.js": "/react-autocomplete/static/js/main.c12090b4.js",
+    "static/js/787.86661c12.chunk.js": "/react-autocomplete/static/js/787.86661c12.chunk.js",
+    "index.html": "/react-autocomplete/index.html",
+    "main.b93a306b.css.map": "/react-autocomplete/static/css/main.b93a306b.css.map",
+    "main.c12090b4.js.map": "/react-autocomplete/static/js/main.c12090b4.js.map",
+    "787.86661c12.chunk.js.map": "/react-autocomplete/static/js/787.86661c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93a306b.css",
+    "static/js/main.c12090b4.js"
+  ]
+}
